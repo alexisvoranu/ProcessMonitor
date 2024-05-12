@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezqoU+jciCa324Vn9Hp8bpU/E7j5JpRmxYKg6DQCeNP7Vky2ipk4O8u6yi1gYwGMsOzpal0IXg1SHGZ4QysBvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex Isvoranu\\Desktop\\Facultate\\An II Sem II\\PAW\\ProcessMonitor\\ProcessMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex Isvoranu\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alex Isvoranu\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
